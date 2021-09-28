@@ -62,10 +62,8 @@ cout<<"1.Deposit"<<endl;
 cout<<"2.Withdraw"<<endl;
 cout<<"3.Display"<<endl;
 cout<<"Enter option"<<endl; 
- 
  int op;
- 
-cin>>op;
+ cin>>op;
 do
 {
 cout<<"Please enter your account number:"<<endl; 
